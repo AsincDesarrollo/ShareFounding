@@ -6,7 +6,7 @@ Como objetivo de mi idea mencionaré los siguientes puntos:
 
 -	Hoy en dia, existe un gran grupo de personas que quisieran desarrollar proyectos pero no cuentan con los recursos o la posibilidad de financiarlos por su cuenta.
 
--	Tambien existe personas dispuestas a financiar proyectos en busqueda de retribuciones que pueden ser tanto economicas  las cuales sean generadas por terceros.
+-	Tambien existe personas dispuestas a financiar proyectos en busqueda de retribuciones que pueden ser tanto economicas como beneficios a través de proyectos generados por terceros.
 
 -	Se a comprobado que los servicios de calidad utilizando tecnologia son pagados sin problemas por un segmento de la población Chilena, la cual ya esta culturizada para realizar pagos en linea a través de su cuenta corriete,Tarjetas de Credito e incluso a través de la cuenta RUT en el caso de los segmentos que antes no tenian la posibilidad de acceder a esta metodologia de pagos, los casos como UBER, NETFLIX o SPOTIFY, muestras que si el servicio vale la pena, el cliente puede suscribirse a pagar una cantidad razonable.
 
