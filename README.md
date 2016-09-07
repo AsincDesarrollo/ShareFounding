@@ -4,13 +4,14 @@ Estimados Amigos, Soy Mauro Rojas y durante mucho tiempo he pensado de manera in
 
 Como objetivo de mi idea mencionaré los siguientes puntos:
 
--	Hoy en dia, existe un gran grupo de personas que quisieran desarrollar proyectos pero no cuentan con los recursos o la posibilidad de financiarlos por su cuenta.
+-	Hoy en día, existe un gran grupo de personas que quisieran desarrollar proyectos pero no cuentan con los recursos o la posibilidad de financiarlos por su cuenta.
 
--	Tambien existe personas dispuestas a financiar proyectos en busqueda de retribuciones que pueden ser tanto economicas como beneficios a través de proyectos generados por terceros.
+-	También existe personas dispuestas a financiar proyectos en búsqueda de retribuciones que pueden ser tanto económicas como beneficios a través de proyectos generados por terceros.
 
--	Se a comprobado que los servicios de calidad utilizando tecnologia son pagados sin problemas por un segmento de la población Chilena, la cual ya esta culturizada para realizar pagos en linea a través de su cuenta corriete,Tarjetas de Credito e incluso a través de la cuenta RUT en el caso de los segmentos que antes no tenian la posibilidad de acceder a esta metodologia de pagos, los casos como UBER, NETFLIX o SPOTIFY, muestras que si el servicio vale la pena, el cliente puede suscribirse a pagar una cantidad razonable.
+-	Se ha comprobado que los servicios de calidad utilizando tecnología son pagados sin problemas por un segmento de la población Chilena, la cual ya está culturizada para realizar pagos en línea a través de su cuenta corriente, Tarjetas de Crédito e incluso a través de la cuenta RUT en el caso de los segmentos que antes no tenían la posibilidad de acceder a esta metodología de pagos, los casos como UBER, NETFLIX o SPOTIFY, muestras que si el servicio vale la pena, el cliente puede suscribirse a pagar una cantidad razonable.
 
--	se busca como objetivo Permitir que los conocimientos, las habilidades e intereses de quienes quieran crear un proyecto, tengan la oportunidad de hacerlo y así lograr beneficios tanto para quien aporta con financiamiento, quién genera el servicio o producto y para el cliente final.  
+-	Se busca como objetivo permitir que los conocimientos, las habilidades e intereses de quienes quieran crear un proyecto, tengan la oportunidad de hacerlo y así lograr beneficios tanto para quien aporta con financiamiento, quién genera el servicio o producto y para el cliente final.  
+
 
 
 Saludos Cordiales,  
